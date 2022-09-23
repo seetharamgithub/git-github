@@ -1,4 +1,4 @@
-5# git-github
+# git-github
 import java.util.Arrays;  
 public class LargestInArrayExample1{  
 public static int getLargest(int[] a, int total){  
@@ -11,3 +11,4 @@ int b[]={44,66,99,77,33,22,55};
 System.out.println("Largest: "+getLargest(a,6));  
 System.out.println("Largest: "+getLargest(b,7));  
 }}  
+lines

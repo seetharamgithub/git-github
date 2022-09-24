@@ -11,3 +11,6 @@ System.out.println("Largest: "+getLargest(a,6));
 System.out.println("Largest: "+getLargest(b,7));  
 }}  
 secound fileS
+
+the largest number is 6 
+the largest number is 99
